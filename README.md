@@ -1,4 +1,4 @@
-# Just-Thiinking
+# Just-Thinking
 some ideas in life
 # No.1 2018.10.28
 About Electron : For now, many equipments what we used, such as TEM, SEM, LEED and so on, and many theories in science, involve electron. 
